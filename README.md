@@ -6,4 +6,4 @@ AR Solar System
 
 Here is tutorial series, explaining the concepts of the ARCore and Sceneform and also how to create this App.
 
-(https://www.youtube.com/watch?v=L-VbutbFAbY&list=PLeHnOifCbbZeiP31JLV64TbOBoj0k5RSf)[Click Here to Go to Playlist]
+[Click Here to Go to Playlist](https://www.youtube.com/watch?v=L-VbutbFAbY&list=PLeHnOifCbbZeiP31JLV64TbOBoj0k5RSf)
